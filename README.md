@@ -1,3 +1,6 @@
+## 🔥 Stats:
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoldBreaker&show_icons=true&title_color=610D4D&icon_color=C949DC&text_color=440A5C&bg_color=F3D3E7" alt="Pramod's Github Stats" width="450px"> 
+  
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -6,8 +9,7 @@
         
 <a href="#" target="_blank"> 
      <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-   </a>
-<a href="#" target="_blank"> 
+   </a> <a href="#" target="_blank"> 
      <img alt="PHP" src="https://img.shields.io/badge/php-23323330?style=for-the-badge&logo=php&logoColor=white">
    </a>
    <a href="https://www.php.net/" target="_blank"> 
