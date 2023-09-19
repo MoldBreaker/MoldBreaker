@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966" width="100%" height="150px" alt="background"/>
 </p>
@@ -28,15 +29,6 @@ I'm always strive to lead a purposeful life. In both professional endeavors and 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoldBreaker&show_icons=true&theme=dark#gh-dark-mode-only" alt="background"/>
 </p>
-
-## Personal Projects
-
-### [cacanh]
-#### [23/5/2023 - 13/6/2023]
-- Demo:  [cacanh](https://cacanh.onrender.com/)
-- Description: NodeJS MVC application
-- Technologies Used: NodeJS, ExpressJS,  Mysql database, Handlebars template
-- Experience Gained: Come up with ideas and build projects from scratch.
 
 ## Contact Information
 
