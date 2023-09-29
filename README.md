@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/c7349616e6995fa3b26b1a0218895bf12f1c99eef377122dd7a91b2e71dc144c/68747470733a2f2f6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966" width="100%" height="150px" alt="background"/>
 </p>
@@ -30,14 +31,28 @@ I'm always strive to lead a purposeful life. In both professional endeavors and 
   <img src="https://github-readme-stats.vercel.app/api?username=MoldBreaker&show_icons=true&theme=dark#gh-dark-mode-only" alt="background"/>
 </p>
 
-## Contact Information
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=MoldBreaker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark">
+<img height="200" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoldBreaker&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" />
+</a>
 
-- **Email:** vunguyen10a8.nt@gmail.com
-- **YouTube:** https://www.youtube.com/@MoldBreaker1201
-- **GitHub:** https://github.com/MoldBreaker
+## Trivia
+- Profile views count: &emsp; <img src="https://profile-counter.glitch.me/{MoldBreaker}/count.svg" alt="MoldBreaker :: Visitor's Count" height="24px"/>
+- I'm currently listening:
+<p width="100%" align="center">
+<a href="https://vunguyen-spotify-playing.vercel.app/api/spotify-playing">
+<img src="https://vunguyen-spotify-playing.vercel.app/api/spotify-playing">
+</img>
+</a>
+</p>
+
+## Contact Information
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vunguyen1201) [![Youtube](https://img.shields.io/badge/Youtube-red.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/@MoldBreaker1201) [![Github](https://img.shields.io/badge/Github-black.svg?logo=Github&logoColor=white)](https://github.com/MoldBreaker) [![Gmail](https://img.shields.io/badge/Gmail-orange.svg?logo=Gmail&logoColor=white)](vunguyen10a8.nt@gmail.com) 
+
 
 Feel free to get in touch regarding collaborations or simply to connect!
 
 ---
 
 Thank you for taking the time to explore my profile. Let's connect and explore new possibilities together!
+
+
